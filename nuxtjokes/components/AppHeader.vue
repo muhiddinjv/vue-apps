@@ -34,6 +34,9 @@ export default {
   color: #526488;
 }
 .header ul {
+  display: flex;
+}
+.header a {
   display: inline-block;
   background: #333;
   color: #fff;
