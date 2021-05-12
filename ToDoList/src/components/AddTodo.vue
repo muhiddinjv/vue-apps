@@ -26,7 +26,7 @@ export default {
       e.preventDefault();
       const newTodo = {
         title: this.title,
-        completed: true,
+        completed: false,
       }; // send up to parent
       this.$emit("add-todo", newTodo);
       this.title = "";

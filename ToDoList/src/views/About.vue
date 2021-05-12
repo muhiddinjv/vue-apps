@@ -2,8 +2,14 @@
   <div class="about">
     <h1>About</h1>
     <p>
-      This is the TodoList app v1.0.0. and this is just the beggining b/c I have
-      more app ideas in mind that I'm planning to implement soon.
+      This is the TodoList v1.0.0. It's just a small project. I'm going to build
+      apps much better than this.
     </p>
   </div>
 </template>
+
+<style scoped>
+.about {
+  text-align: center;
+}
+</style>
