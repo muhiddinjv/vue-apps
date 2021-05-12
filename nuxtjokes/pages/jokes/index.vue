@@ -1,15 +1,12 @@
 <template>
-  <div>
-    <h1>Welcome</h1>
-    <p>to the best corny dad jokes app on the web.</p>
-  </div>
+  <div>jokes</div>
 </template>
 
 <script>
 export default {
   head() {
     return {
-      title: 'Home',
+      title: 'About Us',
       meta: [
         {
           hid: 'description',
@@ -21,3 +18,6 @@ export default {
   },
 }
 </script>
+
+<style>
+</style>
