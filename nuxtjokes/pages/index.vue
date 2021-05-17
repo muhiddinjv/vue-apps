@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1>Welcome</h1>
-    <p>to the best corny dad jokes app on the web.</p>
+    <p>The best corny dad jokes app on the web.</p>
   </div>
 </template>
 

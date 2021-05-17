@@ -9,7 +9,7 @@
 export default {
   head() {
     return {
-      title: 'About Us',
+      title: 'About',
       meta: [
         {
           hid: 'description',

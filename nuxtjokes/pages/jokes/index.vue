@@ -1,6 +1,6 @@
 <template>
   <div>
-    <!-- Loop thru & show a joke for each on in the array. -->
+    <!-- Loop thru & show a joke for each one in the array. -->
     <Joke
       v-for="joke in jokes"
       :key="joke.id"
