@@ -34,6 +34,7 @@ export default {
   },
   head() {
     return { title: 'Joke' }
+    // 38:53
   },
 }
 </script>
